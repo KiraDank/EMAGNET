@@ -3,15 +3,15 @@
 # - iNFO -----------------------------------------------------------------------------
 #
 #        Author: wuseman <wuseman@nr1.nu>
-#      FileName: emagnet.se
+#      FileName: emagnet.sh
 #       Version: 1.0
 #
 #       Created: 2015-02-12 (09:16:23) 
-#      Modified: 2021-09-17 (11:18:28)
+#      Modified: 2021-09-17 (11:20:05)
 #
 #           iRC: wuseman (Libera/EFnet/LinkNet)                                                                                                                                                                                             
-#       Website: https://www.nr1.nu/
-#        GitHub: https://github.com/wuseman/
+#       Website: https://wuseman.nr1.nu/
+#        GitHub: https://github.com/wuseman/emagnet
 #
 # - Descrpiption --------------------------------------------------------------------
 #

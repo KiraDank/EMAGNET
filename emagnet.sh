@@ -7,15 +7,11 @@
 #       Version: 1.0
 #
 #       Created: 2015-02-12 (09:16:23) 
-#      Modified: 2021-09-17 (11:20:05)
+#      Modified: 2021-09-17 (11:20:44)
 #
 #           iRC: wuseman (Libera/EFnet/LinkNet)                                                                                                                                                                                             
 #       Website: https://wuseman.nr1.nu/
 #        GitHub: https://github.com/wuseman/emagnet
-#
-# - Descrpiption --------------------------------------------------------------------
-#
-#      No description has been added
 #
 # - LiCENSE -------------------------------------------------------------------------
 #
